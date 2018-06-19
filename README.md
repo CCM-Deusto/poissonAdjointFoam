@@ -21,10 +21,16 @@ We use the steepest descent method based on the adjoint methodology. The corresp
 The directional derivative of the cost function is given by
 
 <p align="center">
-    <img src="https://latex.codecogs.com/gif.latex?%5Cmathcal%7BD%7D_%7B%20%5Cdelta%20u%7D%20%5Cmathcal%7BJ%7D%20%5Cleft%28%20u%20%5Cright%29%20%3D%20%5Cint_%7B%5COmega%7D%20%5Cleft%28%20%5Clambda%20&plus;%20%5Cbeta%20u%20%5Cright%29%20%5Cdelta%20u%20%5C%2C%20%5Cmathrm%7Bd%7D%20%5COmega%2C.">
+    <img src="https://latex.codecogs.com/gif.latex?%5Cmathcal%7BD%7D_%7B%20%5Cdelta%20u%7D%20%5Cmathcal%7BJ%7D%20%5Cleft%28%20u%20%5Cright%29%20%3D%20%5Cint_%7B%5COmega%7D%20%5Cleft%28%20%5Clambda%20&plus;%20%5Cbeta%20u%20%5Cright%29%20%5Cdelta%20u%20%5C%2C%20%5Cmathrm%7Bd%7D%20%5COmega.">
 </p>
 
+The control variable is updated according to 
 
+<p align="center">
+    <img src="https://latex.codecogs.com/gif.latex?u%5E%7B%5Cleft%28%20n%20&plus;%201%20%5Cright%29%7D%20%3D%20u%5E%7B%5Cleft%28%20n%20%5Cright%29%7D%20-%20%5Cepsilon%20%5Cleft%28%20%5Clambda%5E%7B%5Cleft%28%20n%20%5Cright%29%7D%20&plus;%20%5Cbeta%20u%5E%7B%5Cleft%28%20n%20%5Cright%29%7D%20%5Cright%29%2C">
+</p>
+
+for some value of <img src="https://latex.codecogs.com/gif.latex?%5Cepsilon">.
 
 ## Author
 
@@ -38,3 +44,5 @@ This project has received funding from the European Research Council (ERC) under
 [DyCon Webpage](http://cmc.deusto.eus/dycon/)
 
 ## References
+
+* F. Tröltzsch. _Optimal control of partial differential equations: theory, methods, and applications_. American Mathematical Soc., 2010.
