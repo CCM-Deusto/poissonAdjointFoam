@@ -66,6 +66,10 @@ poissonAdjointFoam
   <img src="poissonAdjointFoamCase/sd_J.png">
 </p>
 
+<p align="center">
+  <img src="poissonAdjointFoamCase/sd_Jy.png">
+</p>
+
 ### Warning
 
 It might be needed to use 
