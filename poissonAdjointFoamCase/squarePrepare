@@ -1,0 +1,4 @@
+rm *.msh
+gmsh - squareGeometry.geo
+gmshToFoam squareGeometry.msh
+changeDictionary

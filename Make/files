@@ -1,0 +1,14 @@
+
+poissonAdjointFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/poissonAdjointFoam
+
+EXE_INC = \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/meshTools/lnInclude
+
+EXE_LIBS = \
+    -lfiniteVolume \
+    -lfvOptions \
+    -lmeshTools
+

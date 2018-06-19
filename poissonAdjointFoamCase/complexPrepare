@@ -1,0 +1,4 @@
+rm *.msh
+gmsh - complexGeometry.geo
+gmshToFoam complexGeometry.msh
+changeDictionary
