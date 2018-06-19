@@ -62,6 +62,10 @@ In order to run the solver move to the case folder _poissonAdjoinFoamCase_ and t
 poissonAdjointFoam
 ```
 
+<p align="center">
+  <img src="poissonAdjointFoamCase/sd_J.png">
+</p>
+
 ### Warning
 
 It might be needed to use 
@@ -81,8 +85,6 @@ in order to be able to execute
 ```
 ./filename
 ```
-
-where filename is _Allclean_, _Allprepare_, _Allrun_.
 
 ## Author
 
