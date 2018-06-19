@@ -3,3 +3,5 @@ rm -r 0.*
 rm -r [1-9]*
 rm -r processor*
 rm -r postProcessing
+rm -r dynamicCode
+rm *.msh
