@@ -66,9 +66,13 @@ poissonAdjointFoam
   <img src="poissonAdjointFoamCase/sd_J.png">
 </p>
 
+[Click to open image 1.](https://github.com/ChairOfComputationalMathematics/poissonAdjointFoam/blob/master/poissonAdjointFoamCase/sd_J.png)
+
 <p align="center">
   <img src="poissonAdjointFoamCase/sd_Jy.png">
 </p>
+
+[Click to open image 2.](https://github.com/ChairOfComputationalMathematics/poissonAdjointFoam/blob/master/poissonAdjointFoamCase/sd_Jy.png)
 
 ### Warning
 
