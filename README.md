@@ -63,19 +63,19 @@ poissonAdjointFoam
 ```
 
 <p align="center">
-   <a href="https://github.com/ChairOfComputationalMathematics/heatAdjointFoam/blob/master/poissonAdjointFoam/sd_J.png" target="_blank"><img src="poissonAdjointFoam/sd_J.png"></a>
+   <a href="https://github.com/ChairOfComputationalMathematics/heatAdjointFoam/blob/master/poissonAdjointFoam/poissonAdjointFoamCase/sd_J.png" target="_blank"><img src="poissonAdjointFoamCase/sd_J.png"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChairOfComputationalMathematics/heatAdjointFoam/blob/master/poissonAdjointFoam/sd_J.png" target="_blank">Click here to open image 1.</a>
+  <a href="https://github.com/ChairOfComputationalMathematics/heatAdjointFoam/blob/master/poissonAdjointFoam/poissonAdjointFoamCase/sd_J.png" target="_blank">Click here to open image 1.</a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/ChairOfComputationalMathematics/heatAdjointFoam/blob/master/poissonAdjointFoam/sd_Jy.png" target="_blank"><img src="poissonAdjointFoam/sd_Jy.png"></a>
+   <a href="https://github.com/ChairOfComputationalMathematics/heatAdjointFoam/blob/master/poissonAdjointFoam/poissonAdjointFoamCase/sd_Jy.png" target="_blank"><img src="poissonAdjointFoamCase/sd_Jy.png"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChairOfComputationalMathematics/heatAdjointFoam/blob/master/poissonAdjointFoam/sd_Jy.png" target="_blank">Click here to open image 2.</a>
+  <a href="https://github.com/ChairOfComputationalMathematics/heatAdjointFoam/blob/master/poissonAdjointFoam/poissonAdjointFoamCase/sd_Jy.png" target="_blank">Click here to open image 2.</a>
 </p>
 
 ### Warning
