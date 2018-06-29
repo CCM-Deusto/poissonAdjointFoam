@@ -62,6 +62,8 @@ In order to run the solver move to the case folder _poissonAdjoinFoamCase_ and t
 poissonAdjointFoam
 ```
 
+The _poissonAdjointFoam_ solver has been tested in a square domain <img src="https://latex.codecogs.com/gif.latex?%5B0%2C%201%5D%20%5Ctimes%20%5B0%2C%201%5D"> with zero Dirichlet boundary conditions and <img src="https://latex.codecogs.com/gif.latex?%5Cbeta%20%3D%2010%5E%7B-3%7D%2C10%5E%7B-4%7D%2C10%5E%7B-5%7D%2C10%5E%7B-6%7D">. The target function is <img src="https://latex.codecogs.com/gif.latex?y_d%20%3D%20xy%20%5Csin%20%5Cleft%28%20%5Cpi%20x%20%5Cright%29%20%5Csin%20%5Cleft%28%20%5Cpi%20y%20%5Cright%29">.
+
 <p align="center">
    <a href="https://github.com/ChairOfComputationalMathematics/poissonAdjointFoam/blob/master/poissonAdjointFoamCase/sd_J.png" target="_blank"><img src="poissonAdjointFoamCase/sd_J.png"></a>
 </p>
